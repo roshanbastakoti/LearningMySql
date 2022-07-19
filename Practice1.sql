@@ -1,0 +1,1 @@
+delete from student where s_name ="Roshan"
